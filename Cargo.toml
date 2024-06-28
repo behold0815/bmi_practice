@@ -2,5 +2,11 @@
 name = "bmi_practice"
 version = "0.1.0"
 edition = "2021"
+description = "calculate bmi"
+license = "MIT" # Or your chosen license
+documentation = "" # Link to your docs
+homepage = ""
+repository = "https://github.com/behold0815/bmi_practice"
 
 [dependencies]
+
